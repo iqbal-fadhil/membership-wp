@@ -1,0 +1,15 @@
+/* Custom login form styles */
+#custom-login-form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 15px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+}
+#custom-login-form p {
+    margin-bottom: 15px;
+}
+#custom-login-form label {
+    display: block;
+    margin-bottom: 5px;
+}
