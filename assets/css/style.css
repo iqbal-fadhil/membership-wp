@@ -17,3 +17,19 @@
     padding: 10px;
     text-align: left;
 }
+
+.member-dashboard {
+    margin: 20px;
+}
+
+.member-dashboard h2 {
+    color: #333;
+    font-size: 24px;
+}
+
+.order-summary {
+    background: #f9f9f9;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}

@@ -31,6 +31,9 @@ if ( !defined( 'ABSPATH' ) ) {
 include_once plugin_dir_path( __FILE__ ) . 'includes/registration.php';
 include_once plugin_dir_path( __FILE__ ) . 'includes/login.php';
 include_once plugin_dir_path( __FILE__ ) . 'includes/member-management.php';
+include_once plugin_dir_path( __FILE__ ) . 'includes/premium-content.php';
+
+// include_once plugin_dir_path( __FILE__ ) . 'includes/member-dashboard.php';
 
 // Enqueue CSS and JS files (if needed)
 function membership_plugin_enqueue_assets() {
